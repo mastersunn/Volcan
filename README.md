@@ -24,7 +24,3 @@
    - Access to validated and timestamped volcanic data.
 3. **Funding and Incentives**:
    - Use VolcanAI (VAI) to reward contributors and fund research initiatives.
-
----
-
-## 📁 Project Structure
